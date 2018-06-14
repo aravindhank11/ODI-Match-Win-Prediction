@@ -1,4 +1,4 @@
-A Python GUI Application predicting the winner of ODI Cricket matches at 80% accuracy taking into account every player’s affinity to ground, recent form and performances against opposition.
+﻿A Python GUI Application predicting the winner of ODI Cricket matches at 80% accuracy taking into account every player’s affinity to ground, recent form and performances against opposition.
 
 ## Objective -
 The very interest towards the cricket matches and the anticipation towards knowing the result beforehand to avoid edge-seating situations triggered us to come up with a Win Predictor model for ODI matches.
@@ -12,7 +12,7 @@ The very interest towards the cricket matches and the anticipation towards knowi
 
 ## Prediction Factors -
 - **Recent Form** – The Statistics of the latest 10 matches of players is used to depict his current form
-- **Ground Form** – The Statistics of players on that particular ground(venue of the match), indicates how effectively will he be able adapt himself to the specific ground.
+- **Ground Form** – The Statistics of the players on that particular ground(venue of the match), indicates how effectively will he be able adapt himself to the specific ground.
 - **Opposition score** – The Statistics of batsmen pitted against the bowling unit of the opposition gives an insight of the ability of players to score runs or take wickets against the opposition
 
 _**Batsman Score(Recent Form & Ground Score)**_
